@@ -20,7 +20,7 @@ bs4 == 0.0.1
 db == 0.1.1
 
 # spiders/lagouSpider.py: 7
-requests == 2.9.1
+requests == 2.20.0
 
 # pipelines.py: 15
 # runweb/runweb.py: 10
