@@ -2,7 +2,7 @@
 # https://github.com/Damnever/pigar
 
 # runweb/runweb.py: 4
-Flask == 0.10.1
+Flask == 1.0
 
 # db.py: 4
 MySQL_python == 1.2.5
