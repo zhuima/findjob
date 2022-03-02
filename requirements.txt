@@ -10,7 +10,7 @@ MySQL_python == 1.2.5
 # items.py: 8
 # middlewares.py: 8
 # spiders/lagouSpider.py: 5
-Scrapy == 1.4.0
+Scrapy == 1.8.2
 
 # spiders/lagouSpider.py: 8
 bs4 == 0.0.1
